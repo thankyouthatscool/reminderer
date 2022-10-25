@@ -1,0 +1,13 @@
+{
+  "name": "reminderer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thankyouthatscool/reminderer.git",
+  "author": "OZahnitko",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
